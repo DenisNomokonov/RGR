@@ -1,0 +1,28 @@
+---
+name: Newy
+created: 1684066697
+modified: 1684066955
+items:
+	-
+		id: 3
+		pos: $p$187,175
+		size: $s$90,90
+joins: []
+states:
+	- false
+	- true
+	- false
+	- false
+	- true
+	- false
+	- false
+	- false
+	- false
+	- false
+	- false
+	- false
+	- false
+	- false
+	- false
+	- false
+	- false
